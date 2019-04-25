@@ -93,6 +93,7 @@ Lecture by Lecture:
 - Lecture 12.1: [Slides for Chapter 4](http://www.grammaticalframework.org/ipl-book/slides/4-slides-ipl-book.pdf) pages 45-56. 
 
 - Exercise Class 12.2: Shift-reduce parsing for Test 2, Wed May 1.
+  - [Sample Test 2](https://hackmd.io/s/SklvVeAc4)
 
 
 
