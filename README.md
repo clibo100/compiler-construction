@@ -101,6 +101,6 @@ Lecture by Lecture:
 
 - [Assignment 4](http://www.grammaticalframework.org/ipl-book/assignments/assignment3/assignment3.html). Deadline: Fri, May 10, 23:59pm.
 
-  - 
+  - Template files of Haskell and Java are available at the [github repository](https://github.com/ChapmanCPSC/compiler-assignments) (send me an email with your github name if you dont have already access). 
 
 
