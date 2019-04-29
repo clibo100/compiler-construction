@@ -95,5 +95,12 @@ Lecture by Lecture:
 - Exercise Class 12.2: Shift-reduce parsing for Test 2, Wed May 1.
   - [Sample Test 2](https://hackmd.io/s/SklvVeAc4)
 
+- Exercise Class 12.3: (continued from above): concrete and abstract syntax trees
+
+- Lecture 13.1: Assignment 4, the [Interpreter for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment3/assignment3.html). Main source is Chapter 5 of the book. [Slides for Chapter 5](http://www.grammaticalframework.org/ipl-book/slides/5-slides-ipl-book.pdf). **Homework:** Read Chapter 5.?? of [the book](http://www.grammaticalframework.org/ipl-book/).
+
+- Coming up: Assignment 4
+
+  - 
 
 
